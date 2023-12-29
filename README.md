@@ -10,7 +10,7 @@ Create a text1.txt with some content in it
 ### Step 2: 
  Open the text1.txt file in read mode
 ### Step 3: 
-Create a copy.txt file using write mode
+Create a copy.txt file using write mode 
 ### Step 4:  
 Copy the content of text1.txt file to copy.txt using write function:
 
